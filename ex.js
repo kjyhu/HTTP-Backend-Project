@@ -22,3 +22,4 @@ app.get("/api/courses/:id",(req,res)=> {
 app.listen(3000, () => {
     console.log("Listening on port 3000 ...")
 })
+//npm instal express --save
